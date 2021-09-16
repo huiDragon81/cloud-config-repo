@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: mytoken-dev_change_+askjdfhklasjhdf
+  secret: mytoken-dev
 
 gateway:
   ip: 127.0.0.1
