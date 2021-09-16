@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: mytoken-default
+  secret: mytoken-prod
 
 gateway:
   ip: 127.0.0.1
